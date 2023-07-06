@@ -3,4 +3,5 @@
 3. The third script, prints the groups that the current user  is part of.
 4. The fourth script transfers ownership of an hello file to betty
 5. The fifth script simply creats an empty file with a touch command.
-6. Granting permisdions to a file with the chmod command.
+6. Granting permisdions to a file with the chmod command
+7. multiple permissions.
