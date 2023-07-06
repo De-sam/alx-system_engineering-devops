@@ -6,3 +6,4 @@
 6. Granting permisdions to a file with the chmod command
 7. multiple permission
 8. a script that adds execution permission to the owner, the group owner and the other users, to the file hellos.
+9. a script that sets the permission to the file hello 
