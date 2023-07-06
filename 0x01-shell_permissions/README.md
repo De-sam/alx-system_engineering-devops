@@ -4,4 +4,5 @@
 4. The fourth script transfers ownership of an hello file to betty
 5. The fifth script simply creats an empty file with a touch command.
 6. Granting permisdions to a file with the chmod command
-7. multiple permissions.
+7. multiple permission
+8. a script that adds execution permission to the owner, the group owner and the other users, to the file hellos.
